@@ -176,4 +176,3 @@ git commit -m "Added complete README with project info and setup steps"
 git push
 ```
 
-And you’re all set! Let me know if you want help creating a `requirements.txt` or want to add a sample output/screenshot.
