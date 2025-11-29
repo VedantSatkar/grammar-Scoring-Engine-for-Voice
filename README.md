@@ -162,17 +162,4 @@ If you find this project helpful:
 > Built with ❤️ by Vedant Satkar
 ```
 
----
-
-### ✅ To Upload this:
-
-1. Create a file named `README.md` in your project folder.
-2. Paste the above content.
-3. Stage and commit:
-
-```bash
-git add README.md
-git commit -m "Added complete README with project info and setup steps"
-git push
-```
-
+--
